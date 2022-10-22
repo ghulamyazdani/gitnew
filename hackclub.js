@@ -1,1 +1,1 @@
-console.log("Hello hackclubbers")
+console.log("Hello hackclubbers from hackclub JH")
